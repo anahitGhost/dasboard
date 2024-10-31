@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dasboard/static/css/main.e308d075.css",
-    "main.js": "/dasboard/static/js/main.c7bb2a63.js",
+    "main.js": "/dasboard/static/js/main.4d476256.js",
     "static/js/787.545aecf5.chunk.js": "/dasboard/static/js/787.545aecf5.chunk.js",
     "static/media/Device.png": "/dasboard/static/media/Device.74ee9bc4b7db1110248e.png",
     "static/media/drug.png": "/dasboard/static/media/drug.79a92f4c8f0da92fec96.png",
@@ -30,11 +30,11 @@
     "static/media/arrow-down.svg": "/dasboard/static/media/arrow-down.057a251906f60365d926cd0db0662a3e.svg",
     "static/media/minus.svg": "/dasboard/static/media/minus.7cbbb1ee3fee589c34f5.svg",
     "main.e308d075.css.map": "/dasboard/static/css/main.e308d075.css.map",
-    "main.c7bb2a63.js.map": "/dasboard/static/js/main.c7bb2a63.js.map",
+    "main.4d476256.js.map": "/dasboard/static/js/main.4d476256.js.map",
     "787.545aecf5.chunk.js.map": "/dasboard/static/js/787.545aecf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e308d075.css",
-    "static/js/main.c7bb2a63.js"
+    "static/js/main.4d476256.js"
   ]
 }
