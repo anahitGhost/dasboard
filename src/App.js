@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {
-  BrowserRouter, Routes, Route, Navigate,
+  HashRouter, Routes, Route, Navigate,
 } from 'react-router-dom';
 import { ToastContainer } from 'react-toastify';
 import Dashboard from './pages/Dashboard';
@@ -22,7 +22,7 @@ class App extends Component {
   render() {
     return (
       <>
-        <BrowserRouter>
+        <HashRouter>
           <Routes>
             <Route path="/login" element={<Login />} />
             <Route path="/forgot-password" element={<ForgotPassword />} />
@@ -51,7 +51,7 @@ class App extends Component {
             <Route path="/team-members/:memberId" element={<AddTeamMember />} />
 
           </Routes>
-        </BrowserRouter>
+        </HashRouter>
         <ToastContainer />
 
       </>
